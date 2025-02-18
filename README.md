@@ -30,8 +30,8 @@ Execute o seguinte comando para instalar as dependências necessárias:
 ```bash
 npm install
 ```
-### Passo 4: Executar o Projeto
+### Passo 4: Executar o Teste
 
 ```bash
-npm run dev
+npm run test
 ```
