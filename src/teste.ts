@@ -10,6 +10,7 @@ let cliente = new Client({
     street: "R. do Catete",
     neighborhood: "Copacabana",
     city: "Rio de Janeiro",
+    country:"Brasil",
     state: "Rio de Janeiro",
     postalCode: "22220-000",
   }),
